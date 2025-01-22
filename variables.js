@@ -1,4 +1,3 @@
-
 Variables ek container hote hain jisme hum data ko store kar sakte hain
 
 1. Declaration of Variables:
