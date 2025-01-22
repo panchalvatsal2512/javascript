@@ -32,9 +32,7 @@
     console.log(B--); // Output: 5, pehle value print hoti hai, phir decrement hota hai
     console.log(B);   // Output: 4, ab value decrement ho gayi hai
 
-
-
     /**********************************Summary********************************************/
-    // Prefix (++): Value pehle increment ya decrement hoti hai, phir use hoti hai.
-    // Postfix (++): Pehle original value use hoti hai, phir value increment ya decrement hoti hai. 
+    Prefix (++): Value pehle increment ya decrement hoti hai, phir use hoti hai.
+    Postfix (++): Pehle original value use hoti hai, phir value increment ya decrement hoti hai. 
 
